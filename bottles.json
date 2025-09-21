@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "brand": "Mum",
+    "color": "green",
+    "capacity": "750ml",
+    "price": 25,
+    "isAvailable": false,
+    "image": "https://via.placeholder.com/150?text=Bottle1"
+  },
+  {
+    "id": 2,
+    "brand": "Fresh",
+    "color": "transparent",
+    "capacity": "1L",
+    "price": 30,
+    "isAvailable": true,
+    "image": "https://via.placeholder.com/150?text=Bottle2"
+  },
+  {
+    "id": 3,
+    "brand": "Kinley",
+    "color": "white",
+    "capacity": "1.5L",
+    "price": 35,
+    "isAvailable": false,
+    "image": "https://via.placeholder.com/150?text=Bottle3"
+  },
+  {
+    "id": 4,
+    "brand": "Spa",
+    "color": "black",
+    "capacity": "2L",
+    "price": 40,
+    "isAvailable": true,
+    "image": "https://via.placeholder.com/150?text=Bottle4"
+  },
+  {
+    "id": 5,
+    "brand": "Evian",
+    "color": "red",
+    "capacity": "500ml",
+    "price": 45,
+    "isAvailable": false,
+    "image": "https://via.placeholder.com/150?text=Bottle5"
+  }
+  // ... continues until id: 50
+]
